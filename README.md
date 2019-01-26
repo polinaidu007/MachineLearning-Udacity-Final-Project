@@ -9,11 +9,8 @@ breast cancer tumor using two training classification:
 
 0= Benign (Not Cancerous) -Absent
 
-
-
-.
-After loading the data in my project, I have used various functions to get familiar with the data and visualized it
+After loading the dataset, I have used various functions to get familiar with the data and visualized it
 using some tools in python(matplotlib,pandas,seaborn). After getting a good idea on the data distribution of each attribute and checking null values and
-correlation betweeen attributes next step is data pre processing. I've changed my target class to integer values (0 and 1-) and standardised
-values in the dataset. I have also used PCA for dimentionality reduction. Lastly I've compared various supervised learning models using different matrics. Analyzed their
+correlation betweeen attributes next step is data pre processing. I've changed my target class to integer values (0 and 1) and standardised
+values in the dataset. I have also used PCA for dimentionality reduction. Lastly I've compared various supervised learning models using different metrics. Analyzed their
 performances using box-plots.   
